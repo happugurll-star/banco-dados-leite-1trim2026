@@ -14,8 +14,7 @@ Projeto desenvolvido para praticar SQL e banco de dados.
 - analiseleite.ipynb
 
   ## estrutura
-projeto-consumo-leite/
-│
+projeto-consumo-leite/│
 ├── dados.csv
 ├── estados.sql
 ├── analise_leite.ipynb
