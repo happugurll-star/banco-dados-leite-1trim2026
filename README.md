@@ -9,9 +9,9 @@ Projeto desenvolvido para praticar SQL e banco de dados.
 - MySQL
 - Python(pandas.matplotlib)
 ## Arquivos
-- criar_tabelas.sql
-- inserts.sql
-- consultas.sql
+- leite.sql
+- leite_1trim2026.cvs
+- analiseleite.ipynb
 
   ## estrutura
 projeto-consumo-leite/
@@ -21,5 +21,6 @@ projeto-consumo-leite/
 ├── analise_leite.ipynb
 ├── graficos/
 │   ├── consumo_cru.png
-│   └── consumo_industrializado.png
+    └── consumo_industrializado.png
+    └── 4_maiores_consumidores_industrializado.png
 └── README.md
