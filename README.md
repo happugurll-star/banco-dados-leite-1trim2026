@@ -12,3 +12,14 @@ Projeto desenvolvido para praticar SQL e banco de dados.
 - criar_tabelas.sql
 - inserts.sql
 - consultas.sql
+
+  ## estrutura
+projeto-consumo-leite/
+│
+├── dados.csv
+├── estados.sql
+├── analise_leite.ipynb
+├── graficos/
+│   ├── consumo_cru.png
+│   └── consumo_industrializado.png
+└── README.md
